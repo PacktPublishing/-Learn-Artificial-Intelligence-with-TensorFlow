@@ -1,0 +1,16 @@
+**/out/**
+**/data/**
+**/models/**
+**/model_dir/**
+**/train_dir/**
+
+**/*.tfrecords
+**/__pycache__/**
+**/processed_data/**
+
+**/.*.swp
+
+**/export*/**
+
+ignore/**
+
