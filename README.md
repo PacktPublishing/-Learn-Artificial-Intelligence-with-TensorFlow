@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Artificial Intelligence with TensorFlow <img alt="packt" src="https://i.imgur.com/ZyhGUP8.jpg" width="50" align="right">
 
 Upcoming Packt video course, taught by Brandon McKinzie. The purpose of the course is to provide users with a comprehensive overview of what [TensorFlow](https://www.tensorflow.org) has to offer.
